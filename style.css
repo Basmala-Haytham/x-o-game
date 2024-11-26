@@ -1,0 +1,36 @@
+.container{
+    width: 500px;
+    text-align: center;
+    color: white;
+    margin: auto;
+    font-family: system-ui;
+    font-weight: 500;
+}
+
+.headitem{
+    background-color: steelblue;
+    padding: 20px 20px;
+    margin: 20px 40px 20px 0;
+    font-size: 40px;
+}
+
+span{
+    color: #B9FFFC;
+    padding-right: 30px ;
+}
+
+.square{
+    width: 150px;
+    height: 150px;
+    background-color: steelblue;
+    float: left;
+    margin: 2px;
+    font-size: 100px;
+
+
+}
+.square:hover{
+    background:lightblue ;
+    cursor: pointer;
+}
+
